@@ -1,0 +1,85 @@
+.container{
+  display :flex;
+  flex-direction: row;
+  
+
+}
+body{
+  background-color: lightblue;
+  width: 500px;
+  height: 100%;
+
+
+}
+.verticalLine {
+  border-left: 6px  white solid;
+  margin-left: 50%;
+  margin-right: 50%;
+  }
+.ManU{
+  display: flex;
+  flex-direction: column;
+  margin-left : 10%;
+
+}
+.liverpool{
+  display : flex;
+  flex-direction: column;
+   margin-right : 10%;
+   margin-top: 10%;
+  
+}
+#manchester{
+  border-radius: 50%;
+  width: 250px;
+  
+}
+#liverpool{
+  border-radius: 50%;
+  width: 250px;
+}
+#reset{
+  margin-left: 92%;
+  margin-top: 14%;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+h1{
+  background-color:white;
+  position:absolute;
+  justify-content: left;
+  padding-left: 100%;
+
+}
+button{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding: auto;
+}
+#title{
+  font-size: x-large;
+  color: white;
+  margin-left: 20%;
+  margin-bottom: 10%;
+}
+
+p1{
+  font-size: x-large;
+  color: white;
+  margin-left: 20%;
+  margin-bottom: 10%;
+}
+
+p2{
+  font-size: x-large;
+  color: white;
+  margin-left: 20%;
+  margin-bottom: 10%;
+}
+
+p3{
+  font-size: x-large;
+  color: white;
+  margin-left: 20%;
+  margin-bottom: 10%;
+}
