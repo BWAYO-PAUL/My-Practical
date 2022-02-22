@@ -35,3 +35,13 @@ console.log(num,num2);
     }
     console.log(studentInfo.name);
     console.log(studentInfo.isUgandan)
+
+    let nums = [1, 2, 3, 4, 5]
+    for (let i = 0; i < nums.length; i++){
+      if(i == 2){
+        console.log('i have stopped');
+        break;
+      }
+      console.log(nums[i])
+    }
+     
